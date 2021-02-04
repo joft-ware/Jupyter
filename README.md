@@ -1,2 +1,2 @@
 # Jupyter
-Jupyter
+Jupyter Practice
